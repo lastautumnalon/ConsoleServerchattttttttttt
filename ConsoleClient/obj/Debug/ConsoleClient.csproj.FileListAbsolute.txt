@@ -1,0 +1,15 @@
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\Google.Protobuf.dll
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\MySql.Data.dll
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\Renci.SshNet.dll
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\Google.Protobuf.xml
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\MySql.Data.xml
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\bin\Debug\Renci.SshNet.xml
+C:\Users\T\source\repos\ConsoleServer\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete

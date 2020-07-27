@@ -1,0 +1,15 @@
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\zctestframe.exe.config
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\zctestframe.exe
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\zctestframe.pdb
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\Google.Protobuf.dll
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\MySql.Data.dll
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\Renci.SshNet.dll
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\Google.Protobuf.xml
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\MySql.Data.xml
+C:\Users\T\source\repos\ConsoleServer\zctestframe\bin\Release\Renci.SshNet.xml
+C:\Users\T\source\repos\ConsoleServer\zctestframe\obj\Release\zctestframe.csprojAssemblyReference.cache
+C:\Users\T\source\repos\ConsoleServer\zctestframe\obj\Release\zctestframe.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\ConsoleServer\zctestframe\obj\Release\zctestframe.csproj.CopyComplete
+C:\Users\T\source\repos\ConsoleServer\zctestframe\obj\Release\zctestframe.exe
+C:\Users\T\source\repos\ConsoleServer\zctestframe\obj\Release\zctestframe.pdb
