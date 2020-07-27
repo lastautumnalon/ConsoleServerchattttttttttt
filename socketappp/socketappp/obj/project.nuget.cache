@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U39F4r2KLDluARzOhh4Jsg+H9ZuUlvI7WazuMBHqDy1kC/jJrCB/mG9QigaBO+3yeCIDxu5ycZ2jF2/mc+sObA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T\\source\\repos\\ConsoleServer\\socketappp\\socketappp\\socketappp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\T\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\T\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

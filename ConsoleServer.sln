@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zc", "zc\zc.csproj", "{CBAE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zctestframe", "zctestframe\zctestframe.csproj", "{2246A1FB-E6CB-4431-943E-12F9A27F8023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socketappp.Android", "socketappp\socketappp.Android\socketappp.Android.csproj", "{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socketappp", "socketappp\socketappp\socketappp.csproj", "{31FC56B8-5FDE-438F-B75F-DFAE59D020C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,16 @@ Global
 		{2246A1FB-E6CB-4431-943E-12F9A27F8023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2246A1FB-E6CB-4431-943E-12F9A27F8023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2246A1FB-E6CB-4431-943E-12F9A27F8023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCC80C2-22EB-4325-ADAA-A46D6AC59842}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31FC56B8-5FDE-438F-B75F-DFAE59D020C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC56B8-5FDE-438F-B75F-DFAE59D020C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC56B8-5FDE-438F-B75F-DFAE59D020C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC56B8-5FDE-438F-B75F-DFAE59D020C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
